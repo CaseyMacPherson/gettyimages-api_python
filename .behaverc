@@ -1,3 +1,2 @@
 [behave]
 paths=test/features
-paths=test/steps
